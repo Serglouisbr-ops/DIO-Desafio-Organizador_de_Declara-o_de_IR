@@ -1,2 +1,16 @@
-# DIO-Desafio-Organizador_de_Declara-o_de_IR
-Um organizador dinâmico de declaração de Imposto de Renda, ideal para contadores. Desenvolvido para simular a interface de um aplicativo, com planilhas que facilitam a organização de dados e a otimização do processo de declaração.
+# 📊 Declaração Inteligente: Organização de IR para Contadores
+
+
+## 📄 Descrição do Projeto
+
+Este projeto é um organizador de declaração de Imposto de Renda (IR) criado como parte de um desafio de projeto da **DIO (Digital Innovation One)**. A solução foi desenvolvida em formato de planilha, mas com uma abordagem altamente **dinâmica e intuitiva**, buscando simular a experiência de um aplicativo.
+
+A ferramenta é ideal para contadores e profissionais da área fiscal que buscam otimizar e centralizar o processo de coleta e organização de dados para a declaração de IR.
+
+
+
+## 👩‍💻 Autor
+
+Feito por **Sergio Luis dos Santos Santana**
+
+[![LinkedIn](https://www.linkedin.com/in/sérgio-luís-ab354b146/)
